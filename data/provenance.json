@@ -1,0 +1,43 @@
+{
+  "project": "BoundaryLab",
+  "student": "Seeralan M",
+  "registration_number": "241501193",
+  "retrieved": "2026-10-08",
+  "rows": 459,
+  "columns": [
+    "match_id",
+    "season",
+    "date",
+    "team1",
+    "team2",
+    "city",
+    "venue",
+    "stage",
+    "toss_winner",
+    "toss_decision",
+    "winner",
+    "result",
+    "margin_runs",
+    "margin_wickets",
+    "method",
+    "batting_first",
+    "first_runs",
+    "first_wickets",
+    "batting_second",
+    "second_runs",
+    "second_wickets",
+    "player_of_match"
+  ],
+  "non_missing_values": 459,
+  "sha256_csv": "9d082a804a4d54531e9f2a42f6d00850ed3aee3f8e4fd0f0a74c33b5e446a544",
+  "sources": [
+    {
+      "name": "Cricsheet Indian Premier League, men",
+      "url": "https://cricsheet.org/downloads/",
+      "download_url": "https://cricsheet.org/downloads/ipl_male_json.zip",
+      "format_url": "https://cricsheet.org/format/json/",
+      "license": "Open Data Commons Attribution License 1.0"
+    }
+  ],
+  "license": "Open Data Commons Attribution 1.0"
+}

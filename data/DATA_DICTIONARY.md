@@ -1,0 +1,5 @@
+# Data dictionary
+
+match_id: original Cricsheet JSON filename; season: calendar year of first match date; date: ISO match date; team1/team2: source participant order, not batting order; city/venue: original location; stage: event stage, default League if unspecified; toss_winner/decision: source toss; winner: outcome winner or eliminator winner; result: outcome result or win; margin_runs/wickets: source outcome margin, 0 if absent; method: Standard or source method (e.g. D/L); batting_first/second: regulation innings teams; first/second_runs: summed delivery total runs; first/second_wickets: dismissals excluding retired hurt; player_of_match: source awards. Missing innings scores stay blank; a zero outcome margin means absent, not a tie.
+
+Data provided by Cricsheet, https://cricsheet.org/. JSON data licensed under the Open Data Commons Attribution License 1.0, https://opendatacommons.org/licenses/by/1-0/. Derived match summaries retain this attribution. No endorsement by Cricsheet or IPL is implied.
