@@ -32,3 +32,8 @@ The original match data is from [Cricsheet downloads](https://cricsheet.org/down
 2. Open it in Power BI Desktop.
 3. Use the overview page with slicers cleared for the baseline.
 4. To reproduce the report example, select Season 2024 and Chennai Super Kings, then review the filtered records page.
+
+
+## Screenshot gallery
+
+View the [Power BI evidence gallery](EVIDENCE.html) for the raw data, Power Query changes, and dashboard before and after filtering.
