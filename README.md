@@ -37,3 +37,4 @@ The original match data is from [Cricsheet downloads](https://cricsheet.org/down
 ## Screenshot gallery
 
 View the [Power BI evidence gallery](EVIDENCE.html) for the raw data, Power Query changes, and dashboard before and after filtering.
+View the [GitHub-rendered Power BI evidence gallery](EVIDENCE.md) for the raw data, Power Query changes, and dashboard before and after filtering.
